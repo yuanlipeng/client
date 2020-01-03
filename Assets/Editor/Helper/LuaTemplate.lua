@@ -1,0 +1,3 @@
+local lua = {}
+
+return lua
